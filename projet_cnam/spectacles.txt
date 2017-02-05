@@ -1,0 +1,8 @@
+Laurent Gerra;203
+Dany Boon;109
+Waly Dia;157
+Kev Adams;50
+Gad Elmaleh;180
+Olivier de Benoist;57
+Arnaud Tsamere;78
+Florent Peyre;89
